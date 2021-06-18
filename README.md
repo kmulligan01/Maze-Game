@@ -1,6 +1,6 @@
 # Maze Game
 
-This is a Javascript project I had made that is a simple maze game. Using your keyboard (A-left, W-up, S-down, D-right), toggle the ball until it collides with the green square to win the game.
+This is a Javascript project I had made that is a simple maze game. Using your keyboard (A-left, W-up, S-down, D-right), toggle the ball until it collides with the green square to win the game. The game is responsive so it fits any screen size to play, and a developer can change the grid that the maze is played on so that the difficulty level can be changed.
 
 ## Getting Started
 
